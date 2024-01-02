@@ -1,0 +1,14 @@
+**/.git
+**/.idea
+**/.vscode
+**/.env
+**/vendor
+**/node_modules
+**/bootstrap/cache/*
+**/compiled.php
+**/.phpunit.result.cache
+**/Homestead.json
+**/Homestead.yaml
+**/docker-compose.yml
+**/docker-compose.override.yml
+**/.dockerignore
